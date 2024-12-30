@@ -1,4 +1,4 @@
-# GenAI_based_Shopping_Assistant
+# ShoppingAssistAI
 
 
 ## 1. Background
@@ -49,7 +49,7 @@ The Flask application utilizes various functionalities:
 
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.9+
 - OpenAI API Key(you have to add openai api key in the empty txt file (OpenAI_API_Key))
 
 ### Getting Started
@@ -58,11 +58,11 @@ To get started with ShopAssist AI, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/dynamicanupam/ShopAssist-AI.git
-   cd ShopAssist-AI
+   git clone https://github.com/mbharadwaj1991/shoppingAssistAI.git
+   cd shoppingAssistAI
    ```
 2. **Lunch VS Code from Anaconda**
-   - In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
+   - In VS Code go to `File` > `Open Folder...` and select the `shoppingAssistAI` folder.
    - Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
 2. **Install dependencies:**
 ```   
