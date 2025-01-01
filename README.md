@@ -61,9 +61,6 @@ To get started with ShopAssist AI, follow these steps:
    git clone https://github.com/mbharadwaj1991/shoppingAssistAI.git
    cd shoppingAssistAI
    ```
-2. **Lunch VS Code from Anaconda**
-   - In VS Code go to `File` > `Open Folder...` and select the `shoppingAssistAI` folder.
-   - Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
 2. **Install dependencies:**
 ```   
 pip install -r requirements.txt
